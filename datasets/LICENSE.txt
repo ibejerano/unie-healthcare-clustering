@@ -1,0 +1,28 @@
+LICENSE FOR DATASET: GSE2034 – Breast Cancer Gene Expression (Series Matrix File)
+
+Dataset Information:
+--------------------
+Title: GSE2034 – Breast Cancer Gene Expression
+Source: NCBI Gene Expression Omnibus (GEO)
+GEO Accession Number: GSE2034
+URL: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE2034
+Original Publication:
+van de Vijver MJ, He YD, et al. 
+"A gene-expression signature as a predictor of survival in breast cancer."
+New England Journal of Medicine. 2002;347:1999–2009.
+
+Usage Terms:
+------------
+1. The dataset is publicly available for **research, educational, and academic use**.
+2. **Commercial use is not permitted** without prior written permission from the original data providers.
+3. Users must **cite the original publication and GEO accession** when publishing analyses derived from this dataset.
+4. The dataset may be redistributed for academic purposes **only if this license file is included**.
+5. No warranty is provided; the dataset is used **as-is**.
+
+Recommended Citation:
+--------------------
+van de Vijver MJ, He YD, et al. 
+"A gene-expression signature as a predictor of survival in breast cancer."
+New England Journal of Medicine. 2002;347:1999–2009.
+GEO Accession Number: GSE2034
+
