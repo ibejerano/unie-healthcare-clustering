@@ -21,18 +21,18 @@
 
 - **© 2026 Isabel Bejerano Blazquez**
 - **Notebook**: MIT License
-- **Data**: Public domain (NCBI GEO)
+- **Data**: Public domain (NCBI GEO) License
 
 Developed and tested on:
 
-- **Python ≥ 3.10**  
-- **Core dependencies:** see requirements.txt file
+- **Python ≥ 3.12**  
+- **Dependencies:** see requirements.txt file
 
 ## Quick start
 
 ```bash
 ## Create and activate environment
-python3.10 -m venv venv
+python3 -m venv venv
 source venv/bin/activate      # macOS/Linux
 venv\Scripts\activate         # Windows
 
