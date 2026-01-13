@@ -8,11 +8,12 @@
 ```bash
 .
 ├── datasets/
-│   ├── LICENSE                             # Public domain License (NCBI GEO dataset)
+│   ├── LICENSE                                 # Public domain License (NCBI GEO dataset)
 │   └── GSE2034_series_matrix.txt           
-├── breast_cancer_clustering_GSE2034.ipynb  # Complete executable pipeline
+├── src/
+│   └── breast_cancer_clustering_GSE2034.ipynb  # Complete executable pipeline
 ├── requirements.txt
-├── LICENSE                                 # MIT License (code)
+├── LICENSE                                     # MIT License (code)
 └── README.md
 
 ```
