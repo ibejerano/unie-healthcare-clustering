@@ -20,7 +20,7 @@
 
 ## Copyright and License
 
-- **© 2026 Isabel Bejerano Blazquez**
+- **© 2026 Isabel Bejerano-Blazquez**
 - **Notebook**: MIT License
 - **Data**: Public domain (NCBI GEO) License
 
